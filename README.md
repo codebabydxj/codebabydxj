@@ -3,5 +3,5 @@
   &nbsp;&nbsp;☀️ 一只纯粹的编程爱好者，<i>Nothing's Impossible </i><br>
   &nbsp;&nbsp;⭐ <i>Believe it, you can definitely</i> <br>
   &nbsp;&nbsp;✍️ [@codebabydxj](https://github.com/codebabydxj) 🔥🔥🔥<br>
-  &nbsp;&nbsp;🎧 listening to: <br></samp>&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;🎧 listening to: <br>&nbsp;</samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
