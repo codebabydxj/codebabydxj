@@ -5,3 +5,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍️ [@codebabydxj](https://github.com/codebabydxj) 🔥🔥🔥<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎧 <i>listening to</i>: <br>&nbsp;&nbsp;&nbsp;</samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
+
+
+<a href="javascript:;"><img align="left" width="300" src="./img/cloud2.png"></a>
