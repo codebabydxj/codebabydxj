@@ -4,7 +4,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ <i>Believe it, you can definitely</i> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍️ [@codebabydxj](https://github.com/codebabydxj) 🔥🔥🔥<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎧 <i>listening to</i>: <br>&nbsp;&nbsp;&nbsp;</samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 <i>人生如棋，落子无悔。</i>: <br>&nbsp;&nbsp;&nbsp;</samp>
 
 
 <a href="javascript:;"><img align="left" width="300" src="./img/cloud2.png"></a>
