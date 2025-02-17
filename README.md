@@ -7,4 +7,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
 
 
-<a href="javascript:;"><img align="left" width="300" src="https://img-blog.csdnimg.cn/ac06e726d26c487cbab2744c1dfa1ddc.png"></a>
+<a href="javascript:;"><img align="left" width="300" src="./img/cloud2.png"></a>
